@@ -1,8 +1,7 @@
 ### I AM ###
-`JAVA/JSP Full Stack Developer` 
-`Spring Architector` 
-
-
-### And currently ###
-`Leanring Cloud Architecture` 
-`Learning React`
+`JAVA/JSP Full Stack Developer`  
+`SpringBoot (Cloud) Architector`  
+`MyBatis`  
+`JPA`  
+`Kubernetes Architector`  
+Prefer `React`
